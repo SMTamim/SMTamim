@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm SM Tamim Mahmud, from Bangladesh. I love coding in python and solving coding problems.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMTamim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMTamim&show_icons=true&theme=dark)
+
 
 <!--
 **SMTamim/SMTamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
