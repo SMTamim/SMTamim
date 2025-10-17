@@ -7,10 +7,9 @@
  <a href="https://www.youtube.com/@smtamimmahmud"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> </p>
 
  <!-- <a href="https://medium.com/@smtamimmahmud"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/smtamimmahmud"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMTamim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMTamim&show_icons=true&theme=dark)
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMTamim&show_icons=true&theme=dark&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Tamim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMTamim&theme=dark&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
 <!--
