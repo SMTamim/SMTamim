@@ -18,7 +18,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
+
  ## ⚡ Backend Technologies
+ 
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
  ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -29,6 +31,21 @@
  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+ ## ⚡ Cloud & DevOps
+ 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+ ## ⚡ Soft Skills
+ 
+![Attention to Detail](https://img.shields.io/badge/-Attention_to_Detail-4CAF50?style=flat-square)
+![Creativity](https://img.shields.io/badge/-Creativity-9C27B0?style=flat-square)
+![Collaboration](https://img.shields.io/badge/-Collaboration-2196F3?style=flat-square)
+![Communication](https://img.shields.io/badge/-Communication-FF9800?style=flat-square)
+![Team Leadership](https://img.shields.io/badge/-Team_Leadership-3F51B5?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/-Problem_Solving-009688?style=flat-square)
 
 
  <!-- <a href="https://medium.com/@smtamimmahmud"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/smtamimmahmud"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> -->
