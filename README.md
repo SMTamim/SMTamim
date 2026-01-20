@@ -54,7 +54,7 @@
  <!-- <a href="https://medium.com/@smtamimmahmud"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/smtamimmahmud"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> -->
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtamim&show_icons=true&theme=dark) | ![Tamim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMTamim&theme=dark&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtamim&show_icons=true&theme=dark) | ![Tamim's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMTamim&theme=dark) |
 
 
 <!--
