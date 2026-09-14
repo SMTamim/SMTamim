@@ -1,5 +1,11 @@
 <img src="https://github.com/SMTamim/SMTamim/blob/main/images/cover.png" alt="SM tamim GitHub README header image">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/images/light_mode.svg" />
+  <img alt="Smtamim's GitHub profile" src="/images/dark_mode.svg" />
+</picture>
+
 <!--  -->
 <p><a href="https://www.x.com/TamimMahmud2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sm-tamim-mahmud"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.fb.com/sm.tamim.mahmud.dev/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
