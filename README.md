@@ -1,4 +1,4 @@
-<img src="https://github.com/SMTamim/SMTamim/blob/main/images/cover.png" alt="SM tamim GitHub README header image">
+<!-- <img src="https://github.com/SMTamim/SMTamim/blob/main/images/cover.png" alt="SM tamim GitHub README header image"> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/images/dark_mode.svg" />
